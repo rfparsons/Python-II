@@ -1,0 +1,9 @@
+{% for item in to_do_list %}
+        Entered by: {{ item.who_added }} <br /> 
+      Assigned to: {{ item.who_assigned }}<br /> 
+      What needs done: {{ item.to_do_name }}<br /> 
+      When it was added: {{ item.add_date }}<br /> 
+      When it needs completed: {{ item.due_date }}<br /> 
+       <br /> 
+      
+{% endfor %}

@@ -1,0 +1,9 @@
+Moby Dick:
+"Old"s: 6
+"Water"s: 8
+Average sentence length: 148.890243902439
+
+Sense and Sensibility:
+"Old"s: 4
+"Water"s: 0
+Average sentence length: 134.66666666666666
